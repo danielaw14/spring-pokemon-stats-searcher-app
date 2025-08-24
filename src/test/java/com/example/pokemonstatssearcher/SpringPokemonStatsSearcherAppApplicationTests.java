@@ -1,0 +1,13 @@
+package com.example.pokemonstatssearcher;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringPokemonStatsSearcherAppApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
